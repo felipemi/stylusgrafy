@@ -1,0 +1,35 @@
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#555;
+  display:none;
+  height: 2618px;
+}
+  
+#boxes .window {
+  position:absolute;
+  left:0;
+  top:0;
+  width:440px;
+  height:200px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+}
+ 
+#boxes #dialog2 {
+  background:transparent; 
+  width:1004px;
+  margin:0 auto;
+  margin-top: -220px;
+}
+
+.sorv {
+    height: 2660px;
+    
+}
+.fechar {
+    margin-right: 261px;
+}
